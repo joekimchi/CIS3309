@@ -1,0 +1,9 @@
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\bin\Debug\Project1.exe.config
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\obj\Debug\Project1.exe
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\obj\Debug\Project1.pdb
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\obj\Debug\AreaAndPerimeter.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\obj\Debug\Project1.Properties.Resources.resources
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.Cache
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\bin\Debug\Project1.exe
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\bin\Debug\Project1.pdb
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\obj\Debug\AreaAndPerimeter.frmAreaAndPerimeter.resources

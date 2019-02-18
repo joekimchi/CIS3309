@@ -1,0 +1,15 @@
+c:\users\tyang1\documents\visual studio 2017\Projects\Project1\Project1\bin\Debug\Project1.exe.config
+c:\users\tyang1\documents\visual studio 2017\Projects\Project1\Project1\bin\Debug\Project1.exe
+c:\users\tyang1\documents\visual studio 2017\Projects\Project1\Project1\bin\Debug\Project1.pdb
+c:\users\tyang1\documents\visual studio 2017\Projects\Project1\Project1\obj\Debug\Project1.csprojResolveAssemblyReference.cache
+c:\users\tyang1\documents\visual studio 2017\Projects\Project1\Project1\obj\Debug\Project1.Form1.resources
+c:\users\tyang1\documents\visual studio 2017\Projects\Project1\Project1\obj\Debug\Project1.Properties.Resources.resources
+c:\users\tyang1\documents\visual studio 2017\Projects\Project1\Project1\obj\Debug\Project1.csproj.GenerateResource.Cache
+c:\users\tyang1\documents\visual studio 2017\Projects\Project1\Project1\obj\Debug\Project1.exe
+c:\users\tyang1\documents\visual studio 2017\Projects\Project1\Project1\obj\Debug\Project1.pdb
+C:\Users\Joseph Kim\Desktop\Microsoft-C--SWE1-master\Microsoft-C--SWE1-master\Calculate_area_and_perimeter\Project1\bin\Debug\Project1.exe.config
+C:\Users\Joseph Kim\Desktop\Microsoft-C--SWE1-master\Microsoft-C--SWE1-master\Calculate_area_and_perimeter\Project1\obj\Debug\Project1.exe
+C:\Users\Joseph Kim\Desktop\Microsoft-C--SWE1-master\Microsoft-C--SWE1-master\Calculate_area_and_perimeter\Project1\obj\Debug\Project1.pdb
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\bin\Debug\Project1.exe.config
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\obj\Debug\Project1.exe
+C:\Users\Joseph Kim\Desktop\AreaAndPerimeter\Project1\obj\Debug\Project1.pdb

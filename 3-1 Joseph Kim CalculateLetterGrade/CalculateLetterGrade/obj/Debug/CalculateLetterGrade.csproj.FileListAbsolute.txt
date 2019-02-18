@@ -1,0 +1,30 @@
+c:\users\joseph kim\documents\visual studio 2015\Projects\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+c:\users\joseph kim\documents\visual studio 2015\Projects\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+c:\users\joseph kim\documents\visual studio 2015\Projects\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+c:\users\joseph kim\documents\visual studio 2015\Projects\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojResolveAssemblyReference.cache
+c:\users\joseph kim\documents\visual studio 2015\Projects\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+c:\users\joseph kim\documents\visual studio 2015\Projects\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.Cache
+c:\users\joseph kim\documents\visual studio 2015\Projects\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+c:\users\joseph kim\documents\visual studio 2015\Projects\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+c:\users\joseph kim\documents\visual studio 2015\Projects\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\Joseph Kim\Desktop\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\Joseph Kim\Desktop\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\Joseph Kim\Desktop\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\Users\Joseph Kim\Desktop\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\Joseph Kim\Desktop\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\Joseph Kim\Desktop\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\Joseph Kim\Desktop\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\Joseph Kim\Desktop\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.Cache
+C:\Users\Joseph Kim\Desktop\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\Joseph Kim\Desktop\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\Joseph Kim\Desktop\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 2\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 2\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 2\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 2\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 2\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.frmCalculateGrade.resources
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 2\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 2\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.Cache
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 2\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 2\3-1 Joseph Kim CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb
