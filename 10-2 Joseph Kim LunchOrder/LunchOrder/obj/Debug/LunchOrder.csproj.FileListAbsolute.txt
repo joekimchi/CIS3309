@@ -1,0 +1,10 @@
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\10-2 Joseph Kim LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe.config
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\10-2 Joseph Kim LunchOrder\LunchOrder\obj\Debug\LunchOrder.csprojResolveAssemblyReference.cache
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\10-2 Joseph Kim LunchOrder\LunchOrder\obj\Debug\LunchOrder.frmLunchOrder.resources
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\10-2 Joseph Kim LunchOrder\LunchOrder\obj\Debug\LunchOrder.Properties.Resources.resources
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\10-2 Joseph Kim LunchOrder\LunchOrder\obj\Debug\LunchOrder.csproj.GenerateResource.Cache
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\10-2 Joseph Kim LunchOrder\LunchOrder\bin\Debug\LunchOrder.exe
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\10-2 Joseph Kim LunchOrder\LunchOrder\bin\Debug\LunchOrder.pdb
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\10-2 Joseph Kim LunchOrder\LunchOrder\obj\Debug\LunchOrder.exe
+C:\Users\Joseph Kim\Desktop\3309 C#\Assignment 4\10-2 Joseph Kim LunchOrder\LunchOrder\obj\Debug\LunchOrder.pdb
